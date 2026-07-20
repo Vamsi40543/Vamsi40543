@@ -100,15 +100,7 @@ Production-style REST API demonstrating clean architecture and backend developme
 
 ### Live GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vamsi40543&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi40543&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=vamsi40543&theme=default&hide_border=true" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vamsi40543&theme=github-compact&hide_border=true" alt="Activity Graph" width="90%"/>
-
+<div align="center"> <img src="https://img.shields.io/github/followers/vamsi40543?label=Followers&style=for-the-badge&color=00ADD8&logo=github" alt="Followers"/> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvamsi40543&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=00ADD8&logo=github" alt="Public Repos"/> <br> <img src="https://streak-stats.demolab.com/?user=vamsi40543&theme=default&hide_border=true" alt="GitHub Streak"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vamsi40543&theme=github-compact&hide_border=true" alt="Activity Graph" width="90%"/> </div>
 </div>
 
 ---
